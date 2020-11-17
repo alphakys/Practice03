@@ -61,7 +61,9 @@ public class Ex20 {
 							}
 					else {
 							run =true; 
-							
+							System.out.println("====================================");
+							System.out.println("[      숫자맞추기 게임시작       ]");
+							System.out.println("====================================");
 					 	 }	
 					
 					} 
@@ -85,7 +87,7 @@ public class Ex20 {
 
 			
 			
-			
+			sc.close();
 			
 			
 			
