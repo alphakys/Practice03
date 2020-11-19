@@ -28,6 +28,12 @@ public class Ex10 {
 		
 		
 		
+		
+		
+		
+		
+		
+		
 		int[] Max = {num1,num2,num3,num4,num5};
 		
 		int max = Max[0];
@@ -46,23 +52,9 @@ public class Ex10 {
 		
 		
 						
+		sc.close();
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		
-		
-		
-		
+
 		
 	}
 

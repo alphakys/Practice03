@@ -1,6 +1,6 @@
 package com.javaex.practice03;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Ex20 {
 
@@ -8,22 +8,23 @@ public class Ex20 {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		
-	
+	Random ran = new Random();
 		
 		
 		String choice;
 	
-		int answer = 10;
+		
 		
 		
 		boolean run = true;
+		
 		
 		
 			System.out.println("====================================");
 			System.out.println("[      숫자맞추기 게임시작       ]");
 			System.out.println("====================================");
 		
-			
+			int answer = ran.nextInt(100);
 			
 			while(run) {
 			
